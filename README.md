@@ -21,22 +21,14 @@ I am a passionate Java and Full Stack Developer with a knack for creating scalab
 
 ## 🔥 My Stats
 
-![GitHub Stats](
+![GitHub Stats](https://github.com/dhanashtom)
 
 **Description:** Brief description of your project. Highlight the main features and technologies used.
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/dhanasekaran-b-57631a22a/)
-## 📝 Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Dhanasekaran B]https://github.com/dhanashtom)
