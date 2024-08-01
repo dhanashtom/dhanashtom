@@ -19,22 +19,6 @@ I am a passionate Java and Full Stack Developer with a knack for creating scalab
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔥 My Stats
-
-![GitHub Stats](https://github.com/dhanashtom)
-# Hi there, I'm [Your Name]! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
-
-I am a passionate Java and Full Stack Developer with a knack for creating scalable and efficient web applications.
-
-## 🚀 About Me
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning [New Technology or Tool]
-- 👯 I’m looking to collaborate on [Open Source Project or Field]
-- 💬 Ask me about Java, Spring Boot, JavaScript, React, and more!
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
-- ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🛠️ Skills and Technologies
 
