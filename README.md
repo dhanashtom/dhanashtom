@@ -23,8 +23,6 @@ I am a passionate Java and Full Stack Developer with a knack for creating scalab
 
 ![GitHub Stats](https://github.com/dhanashtom)
 
-**Description:** Brief description of your project. Highlight the main features and technologies used.
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/dhanasekaran-b-57631a22a/)
